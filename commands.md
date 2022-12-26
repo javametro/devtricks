@@ -1,0 +1,2 @@
+## useful commands
+* netsh wlan
